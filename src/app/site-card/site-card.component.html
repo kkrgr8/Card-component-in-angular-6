@@ -9,7 +9,7 @@
   <mat-divider></mat-divider>
   <mat-card-footer class="site-card-footer">
   	<div class="site-card-fcont">
-      <mat-icon *ngFor="let icons of card_data.footIcon" class="fIcon" (click)="callParent(icons)" aria-hidden="false" aria-label="Example home icon">{{icons.icon}} <span *ngIf="icons.badge" matBadge="{{icons.badgeValue}}" matBadgeSize="small" matBadgeColor="{{icons.badgeColor}}" matBadgePosition="above after"></span></mat-icon>
+      <mat-icon  *ngFor="let icons of card_data.footIcon" class="fIcon primary" (click)="callParent(icons)" aria-hidden="false" aria-label="Example home icon">{{icons.icon}} <span *ngIf="icons.badge" matBadge="{{icons.badgeValue}}" matBadgeSize="small" matBadgeColor="{{icons.badgeColor}}" matBadgePosition="above after"></span></mat-icon>
       
 </div>  
 </mat-card-footer>

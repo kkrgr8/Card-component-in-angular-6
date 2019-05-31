@@ -102,6 +102,180 @@ export class AppComponent {
     action: "viewDetails",
     params: {"id":2}
   }]
+  },
+  { "id" : 2,
+    "title": "McDonald's Las Vegas",
+    "subtitle": "Las Vegas, NV USA",
+    "data": [{
+    label:'Devices',
+    value:8
+  }, {
+    label:'Active since',
+    value: '12/10/2017'
+  }, {
+    label:'ZTA Status',
+    value: 'Activated',
+    badge:true,
+    badgeValue:1,
+    badgeColor:'warn'
+  }, {
+    label:'Status',
+    value: 'In-progress'
+  }],
+  footIcon:[{
+    icon: "edit",
+    action: "edit",
+    params: {"id":2}
+  },{
+    icon: "remove_red_eye",
+    action: "viewDetails",
+    params: {"id":2}
+  }]
+  },
+  { "id" : 2,
+    "title": "McDonald's Las Vegas",
+    "subtitle": "Las Vegas, NV USA",
+    "data": [{
+    label:'Devices',
+    value:8
+  }, {
+    label:'Active since',
+    value: '12/10/2017'
+  }, {
+    label:'ZTA Status',
+    value: 'Activated',
+    badge:true,
+    badgeValue:1,
+    badgeColor:'warn'
+  }, {
+    label:'Status',
+    value: 'In-progress'
+  }],
+  footIcon:[{
+    icon: "edit",
+    action: "edit",
+    params: {"id":2}
+  },{
+    icon: "remove_red_eye",
+    action: "viewDetails",
+    params: {"id":2}
+  }]
+  },
+  { "id" : 2,
+    "title": "McDonald's Las Vegas",
+    "subtitle": "Las Vegas, NV USA",
+    "data": [{
+    label:'Devices',
+    value:8
+  }, {
+    label:'Active since',
+    value: '12/10/2017'
+  }, {
+    label:'ZTA Status',
+    value: 'Activated',
+    badge:true,
+    badgeValue:1,
+    badgeColor:'warn'
+  }, {
+    label:'Status',
+    value: 'In-progress'
+  }],
+  footIcon:[{
+    icon: "edit",
+    action: "edit",
+    params: {"id":2}
+  },{
+    icon: "remove_red_eye",
+    action: "viewDetails",
+    params: {"id":2}
+  }]
+  },
+  { "id" : 2,
+    "title": "McDonald's Las Vegas",
+    "subtitle": "Las Vegas, NV USA",
+    "data": [{
+    label:'Devices',
+    value:8
+  }, {
+    label:'Active since',
+    value: '12/10/2017'
+  }, {
+    label:'ZTA Status',
+    value: 'Activated',
+    badge:true,
+    badgeValue:1,
+    badgeColor:'warn'
+  }, {
+    label:'Status',
+    value: 'In-progress'
+  }],
+  footIcon:[{
+    icon: "edit",
+    action: "edit",
+    params: {"id":2}
+  },{
+    icon: "remove_red_eye",
+    action: "viewDetails",
+    params: {"id":2}
+  }]
+  },
+  { "id" : 2,
+    "title": "McDonald's Las Vegas",
+    "subtitle": "Las Vegas, NV USA",
+    "data": [{
+    label:'Devices',
+    value:8
+  }, {
+    label:'Active since',
+    value: '12/10/2017'
+  }, {
+    label:'ZTA Status',
+    value: 'Activated',
+    badge:true,
+    badgeValue:1,
+    badgeColor:'warn'
+  }, {
+    label:'Status',
+    value: 'In-progress'
+  }],
+  footIcon:[{
+    icon: "edit",
+    action: "edit",
+    params: {"id":2}
+  },{
+    icon: "remove_red_eye",
+    action: "viewDetails",
+    params: {"id":2}
+  }]
+  },
+  { "id" : 2,
+    "title": "McDonald's Las Vegas",
+    "subtitle": "Las Vegas, NV USA",
+    "data": [{
+    label:'Devices',
+    value:8
+  }, {
+    label:'Active since',
+    value: '12/10/2017'
+  }, {
+    label:'ZTA Status',
+    value: 'Activated',
+    badge:true,
+    badgeValue:1,
+    badgeColor:'warn'
+  }, {
+    label:'Status',
+    value: 'In-progress'
+  }],
+  footIcon:[{
+    icon: "edit",
+    action: "edit",
+    params: {"id":2}
+  },{
+    icon: "remove_red_eye",
+    action: "viewDetails",
+    params: {"id":2}
+  }]
   }
 ];
 
