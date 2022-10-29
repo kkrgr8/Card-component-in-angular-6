@@ -1,6 +1,6 @@
 # Cards
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.3.3.
 
 
 ![alt text](https://github.com/kkrgr8/Card-component-in-angular-6/blob/master/cards.png)
